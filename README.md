@@ -32,3 +32,5 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 - DoTween
 - More Performance Coroutines
 - Easy Mobile Pro
+
+[//]: # (Dummy comment to order repositories.)
