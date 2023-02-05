@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+public interface IIDEquatable
+{
+
+    #region Fields
+
+
+
+    #endregion
+
+    #region Propeties
+
+    int ID { get; }
+
+    #endregion
+
+    #region Methods
+
+    bool IDEqual(int otherId);
+
+    #endregion
+
+    #region Enums
+
+
+
+    #endregion
+}
